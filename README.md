@@ -1,3 +1,9 @@
-# Admin Panel 
-# Routing : Admin - Course - CourseChapter - Comment - CommentReply - Shop
-# With NextJs Express Js 
+# 🚀 فرم چند مرحله‌ای با useState و Zustand
+
+تو این آموزش، یه فرم چند مرحله‌ای رو اول با **useState** پیاده‌سازی کردم و بعد هم با **Zustand** که ببینیم چقدر راحت‌تر و تمیزتر میشه مدیریت کرد. 😎
+
+## ✨ ویژگی‌ها
+
+✅ **مقایسه کامل useState vs Zustand**  
+✅ **مدیریت ساده‌تر و بهینه‌تر با Zustand**  
+✅ **کدها مرتب و خوانا، مناسب برای پروژه‌های واقعی**
